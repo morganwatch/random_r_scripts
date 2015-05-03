@@ -62,7 +62,7 @@ data_test2 <- data_test[!data_test$Recipient_State == "ON", ]
 ## Better, what's with Vermont? 
 
 
-## What profession pays the most? TBH
+## What profession pays the most? To Be Continued
 unique(data$Physician_Specialty)
 
 data_test2 <- data %>%
